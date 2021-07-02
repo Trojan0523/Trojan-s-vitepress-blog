@@ -52,3 +52,6 @@ lerna-debug.log*
 
 # redis
 dump.rdb
+
+# vitepress 打包输出文件
+.vitepress/dist
